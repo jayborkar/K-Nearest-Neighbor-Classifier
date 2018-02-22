@@ -17,6 +17,7 @@ You can change the train ratio from 0.1 to 1.0(interval step : 0.1).
 
 When you finish your implementation, you will find validation accuracy rates for the different Ks at the train ratio.
 
+
 Prediction on Test Set :
 
 Working files:
