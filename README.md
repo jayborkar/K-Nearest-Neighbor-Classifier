@@ -4,7 +4,7 @@ I have implemented my own k-Nearest Neighbor (KNN) classifiers on the NEWS DATAS
 
 I have used the 4 classes (’alt.atheism’,’talk.religion.misc’,’comp.graphics’,’sci.space’) among the original 20 classes.
 
-Make a folder called hw1student and add features.py, train.pkl, test.pkl, knn.ipynb and knn-test.ipnb files in that folder. Make a new folder in this hw1student folder name it cs536-1, add -init-.py and make a new folder in this cs536-1 folder and name it models. Add k-nearest-neigbhor.py in this folder.
+Make a folder called hw1student and add features.py, train.pkl, test.pkl, knn.ipynb and knn-test.ipnb files in that folder. Make a new folder in this hw1student folder name it cs536-1, add a blank -init-.py and make a new folder in this cs536-1 folder and name it models. Add -init-.py and k-nearest-neigbhor.py files in this folder.
 
 Run: hw1student → python features.py
 
