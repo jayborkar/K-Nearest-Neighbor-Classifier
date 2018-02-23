@@ -27,3 +27,6 @@ hw1 student → cs536-1 → models → k-nearest-neighbor.py
 You can change the train ratio from 0.1 to 1.0 (interval step : 0.1)
 
 When you finish your implementation, you will find test accuracy rates for the different Ks at the train ratio.
+
+#IrisKNN
+IrisKNN.py is program where I have imported iris data from sklearn and classified using two features-sepal length (cm) and sepal width (cm). I have imported KNeighborsClassifier from sklearn.neighbors and imported train_test split from sklearn.cross_validation for classification.
